@@ -5,7 +5,7 @@ This tutorial is prepared by [Adrian Dalca](http://adalca.mit.edu) and Andrew Ho
 ### The tutorial includes:
 - **Image registration for MNIST**   
 We will first learn to deal with data, building a model, training, registration and generalization
-- **Image registration for Brain MRI (2D slices)**  
+- **Image registration for 2D Brain MRI**  
 We will then show how these models work for 2d slices of brain scans, presenting a more complex scenario    
 - **Image registration for realistic 3D Brain MRI**  
 We will illustrate full 3D registration
